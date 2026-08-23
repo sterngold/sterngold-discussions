@@ -1,4 +1,4 @@
-# CLAUDE.md
+# sterngold-discussions — rules the OS doesn't already give you
 
 @README.md
 
